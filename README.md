@@ -1,5 +1,5 @@
 # Netflix-clone
-Netflix clone for CSS practice
+
 ![Screenshot 2025-05-04 194545](https://github.com/user-attachments/assets/9a683790-fe22-4275-bae5-9a1a2ac1ab1e)
 ![Screenshot 2025-05-04 194605](https://github.com/user-attachments/assets/45e98cef-a20e-420a-afcc-7502e623c3e3)
 ![Screenshot 2025-05-04 194616](https://github.com/user-attachments/assets/4b54c691-cb0e-4ab8-91b2-d34672dac75b)
