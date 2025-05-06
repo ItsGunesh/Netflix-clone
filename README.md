@@ -2,6 +2,7 @@
 
 This is a practice project for learning and understanding basic HTML and CSS . 
 Enjoy the screenshots!
+Tech stack used : HTML , CSS
 
 ![Screenshot 2025-05-04 194545](https://github.com/user-attachments/assets/9a683790-fe22-4275-bae5-9a1a2ac1ab1e)
 ![Screenshot 2025-05-04 194605](https://github.com/user-attachments/assets/45e98cef-a20e-420a-afcc-7502e623c3e3)
