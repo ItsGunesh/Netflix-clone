@@ -1,7 +1,7 @@
 # Netflix-clone
 
 This is a practice project for learning and understanding basic HTML and CSS . 
-Enjoy the screenshots!
+Enjoy the screenshots!     
 Tech stack used : HTML , CSS
 
 ![Screenshot 2025-05-04 194545](https://github.com/user-attachments/assets/9a683790-fe22-4275-bae5-9a1a2ac1ab1e)
